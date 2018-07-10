@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My Files/OS/block.cpp
+disk.h
+D:/My Files/OS/disk.h
+cstdio
+-
+
+D:/My Files/OS/disk.h
+
+D:/My Files/OS/file.cpp
+disk.h
+D:/My Files/OS/disk.h
+cstring
+-
+cmath
+-
+cstdio
+-
+cstdlib
+-
+
+D:/My Files/OS/item.cpp
+disk.h
+D:/My Files/OS/disk.h
+cstdio
+-
+cstring
+-
+
+D:/My Files/OS/main.cpp
+disk.h
+D:/My Files/OS/disk.h
+scanner.h
+D:/My Files/OS/scanner.h
+path.h
+D:/My Files/OS/path.h
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+conio.h
+-
+vector
+-
+string
+-
+sstream
+-
+
+D:/My Files/OS/path.h
+cstring
+-
+string
+-
+cstdio
+-
+iostream
+-
+
+D:/My Files/OS/scanner.h
+cstring
+-
+string
+-
+

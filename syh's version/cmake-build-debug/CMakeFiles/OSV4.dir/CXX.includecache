@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My Files/My Ebook/OSV4/command.h
+cstring
+-
+string
+-
+
+D:/My Files/My Ebook/OSV4/dir.h
+
+D:/My Files/My Ebook/OSV4/dirPath.h
+cstring
+-
+string
+-
+cstdio
+-
+iostream
+-
+
+D:/My Files/My Ebook/OSV4/doBlock.cpp
+virtualDisk.h
+D:/My Files/My Ebook/OSV4/virtualDisk.h
+cstdio
+-
+iostream
+-
+
+D:/My Files/My Ebook/OSV4/doFile.cpp
+virtualDisk.h
+D:/My Files/My Ebook/OSV4/virtualDisk.h
+function.h
+D:/My Files/My Ebook/OSV4/function.h
+cstring
+-
+cmath
+-
+cstdio
+-
+cstdlib
+-
+iostream
+-
+
+D:/My Files/My Ebook/OSV4/doItem.cpp
+virtualDisk.h
+D:/My Files/My Ebook/OSV4/virtualDisk.h
+function.h
+D:/My Files/My Ebook/OSV4/function.h
+cstdio
+-
+cstring
+-
+string
+-
+iostream
+-
+
+D:/My Files/My Ebook/OSV4/function.cpp
+iostream
+-
+vector
+-
+string
+-
+cstdio
+-
+cstring
+-
+iomanip
+-
+conio.h
+-
+virtualDisk.h
+D:/My Files/My Ebook/OSV4/virtualDisk.h
+dirPath.h
+D:/My Files/My Ebook/OSV4/dirPath.h
+function.h
+D:/My Files/My Ebook/OSV4/function.h
+
+D:/My Files/My Ebook/OSV4/function.h
+virtualDisk.h
+D:/My Files/My Ebook/OSV4/virtualDisk.h
+
+D:/My Files/My Ebook/OSV4/main.cpp
+iostream
+-
+cstdio
+-
+virtualDisk.h
+D:/My Files/My Ebook/OSV4/virtualDisk.h
+dirPath.h
+D:/My Files/My Ebook/OSV4/dirPath.h
+function.h
+D:/My Files/My Ebook/OSV4/function.h
+command.h
+D:/My Files/My Ebook/OSV4/command.h
+dir.h
+D:/My Files/My Ebook/OSV4/dir.h
+
+D:/My Files/My Ebook/OSV4/virtualDisk.h
+iostream
+-
+vector
+-
+dir.h
+D:/My Files/My Ebook/OSV4/dir.h
+

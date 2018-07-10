@@ -1,0 +1,3 @@
+D:/My Files/My Ebook/OSV4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/My Files/My Ebook/OSV4/cmake-build-debug/CMakeFiles/OSV4.dir
+D:/My Files/My Ebook/OSV4/cmake-build-debug/CMakeFiles/edit_cache.dir
